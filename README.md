@@ -1,1 +1,1 @@
-# bizAnalytics
+# Business Analytics with R
